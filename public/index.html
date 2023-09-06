@@ -1,22 +1,14 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <title>Journey Builder Custom Activity</title>
 </head>
 <body>
-<div id="step1" class="step">
     <h2>Create a SMS message:</h2>
     <hr>
-    <div>
-        <div><label for="messageBody">Create message body:</label></div>
-        <input class="form-control" id="messageBody" type="text" name="messageBody" value="">        
-    </div>           
-    <div>
-        <div><label for="messagingService">Campaign ID:</label></div>
-        <input class="form-control" id="messagingService" type="text" name="messagingService" value="">
-    </div>
-</div>
+    <textarea id="configuration"></textarea>
+    <script src="postmonger.js"></script>
+    <script src="activity.js"></script>    
 </body>
 </html>
