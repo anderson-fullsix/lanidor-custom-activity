@@ -1,7 +1,7 @@
 {
-  "name": "twilio-journey-builder-example", 
+  "name": "lanidor-journey-builder-custom-activity", 
   "version": "1.0.0",
-  "description": "Journey Builder Activity Template",
+  "description": "Journey Builder Custom Activity",
   "engines": {
     "node": "6.11.1"
   },
@@ -10,22 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmaitz/twilio-sfmc.git"
+    "url": "git+https://github.com/anderson-fullsix/lanidor-custom-activity.git"
   },
-  "keywords": [
-    "twilio",
-    "twilio salesforce marketing cloud",
-    "journey",
-    "builder",
-    "salesforce marketing cloud",
-    "heroku"
-  ],
-  "author": "John Maitz",
+  "author": "Anderson Mendes - Fullsix",
   "license": "",
-  "bugs": {
-    "url": "https://github.com/jmaitz/twilio-sfmc/issues"
-  },
-  "homepage": "https://github.com/jmaitz/twilio-sfmc#readme",
+  "homepage": "https://github.com/anderson-fullsix/lanidor-custom-activity#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "bower": "^1.8.0",
@@ -34,7 +23,6 @@
     "jsonwebtoken": "^8.0.1",
     "request": "^2.81.0",
     "require": "^2.4.20",
-    "twilio": "^3.36.0",
     "uglify-js": "^3.6.4"
   }
 } 
