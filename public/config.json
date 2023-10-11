@@ -30,9 +30,9 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "1b03ab98-7277-4a64-a527-1f07bec1a74c",
+      "applicationExtensionKey": "236fcd3e-c9ad-47c9-be1b-a0cfac6df1d8",
       "save": {
-        "url": "https://lanidor-sms-custom-activity2-63e5cdbcb6f4.herokuapp.com/journeybuilder/save",
+        "url": "https://lanidor-custom-activity-b6139fe2e7f2.herokuapp.com/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
